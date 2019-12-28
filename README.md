@@ -2,7 +2,7 @@
 Suede Universal Execution and Distribution Environment (Browser-Based Grid Computing).
 
 ### This project is not active!
-Suede is not currently under development due to lack of interest. Sorry but I wont be developing this one on my own if I don't have contributers. If someone wants to resurect this project then please send me a message, I'd be happy to work on a new version. This version was started back when there wasnt many great options for websocket servers yet.
+Suede is not currently under development due to lack of interest. Sorry but I wont be developing this one on my own if I don't have contributers. If someone wants to bring this project back from the dead then please send me a message, I'd be happy to contibute to a new version. Also note that this version was started back when there wasnt many great options for websocket servers yet.
 
 ### Running the Server
 Simply upload the source code to your server and run the commands
